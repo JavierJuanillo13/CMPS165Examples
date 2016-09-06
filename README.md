@@ -1,3 +1,3 @@
-# CMPS165_Winter15
-Final Projects from CMPS165 Winter 2015
+# CMPS165 Examples
+CMPS165 Examples
 http://sureshlodha.github.io/CMPS165_Winter15/
